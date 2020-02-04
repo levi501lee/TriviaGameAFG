@@ -6,6 +6,7 @@ body {
 body {
   text-align: center;
   background-image: url("../images/TroopsFlagAFG.jpg");
+  width:100%; height:100%;
 }
 
 #wrapper {
@@ -13,7 +14,7 @@ body {
   height: 95%;
   box-sizing: border-box;
   margin: 2.5% auto;
-  background-color: #fff17a;
+  background-color: #ff7a7a;
 }
 
 #sub-wrapper {
@@ -38,10 +39,10 @@ img {
 
 h1 {
   padding-top: 2.5%;
-  font-family: Geo, sans-serif;
-  font-size: 6.5em;
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 7.5em;
   font-weight: bold;
-  color: blue;
+  color: black;
 }
 
 h2 {
